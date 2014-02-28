@@ -1,4 +1,4 @@
-#Year class
+#Year class dibu
 class Year
   def self.leap?(anio)
     if anio % 4 == 0 
